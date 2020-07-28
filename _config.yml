@@ -1,10 +1,10 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: blossom
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Try to use git / github
 
 # Your name to show in the footer
 author: Some Person
@@ -39,9 +39,9 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  facebook: 
+  github: YeongOh-05
+  twitter: 
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
